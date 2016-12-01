@@ -1,0 +1,1 @@
+http://www.hof-university.de/?__var_link_type_id__&tx_stundenplan_stundenplan[controller]=Ajax&tx_stundenplan_stundenplan[action]=loadAenderungen&tx_stundenplan_stundenplan[studiengang]=Inf&tx_stundenplan_stundenplan[semester]=5%23WS%232016&tx_stundenplan_stundenplan[datum]=TT.MM.JJJJ
